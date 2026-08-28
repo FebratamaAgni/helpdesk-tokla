@@ -95,6 +95,10 @@ const paymentGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
             text: 'VA BPD Sulselbar',
             link: '/guide/payment/20260716-000000-pembayaran-va-bpd-sulselbar',
         },
+        {
+            text: 'Kode Bayar Bank Sumut',
+            link: '/guide/payment/20260828-000000-pembayaran-kode-bayar-bank-sumut',
+        },
     ]
 }
 const regulationGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
