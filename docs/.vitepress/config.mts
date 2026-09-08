@@ -67,6 +67,10 @@ const merhcantGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
             text: 'Tambah Pengguna / Admin Toko',
             link: '/guide/merchant/20260716-000000-tambah-pengguna-admin-toko',
         },
+        {
+            text: 'Tata Cara Menambah Produk Kategori Banpem Menulis',
+            link: '/guide/merchant/20260908-000000-tambah-produk-banpem-menulis',
+        },
     ]
 }
 const paymentGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
