@@ -306,6 +306,10 @@ export default defineConfig({
                             text: 'Cara bertransaksi produk kategori banpem menulis',
                             link: '/guide/satdik/20260914-000000-cara-bertransaksi-produk-kategori-banpem-menulis',
                         },
+                        {
+                            text: 'Cara aktivasi sumber dana banpem menulis',
+                            link: '/guide/satdik/20260915-000000-cara-aktivasi-sumber-dana-banpem-menulis',
+                        },
                     ],
                 },
                 {
