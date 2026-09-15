@@ -302,6 +302,10 @@ export default defineConfig({
                             text: 'Pembatalan Status BAST',
                             link: '/guide/satdik/20260714-000000-pembatalan-status-bast',
                         },
+                        {
+                            text: 'Cara bertransaksi produk kategori banpem menulis',
+                            link: '/guide/satdik/20260914-000000-cara-bertransaksi-produk-kategori-banpem-menulis',
+                        },
                     ],
                 },
                 {
