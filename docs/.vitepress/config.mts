@@ -72,6 +72,11 @@ const merhcantGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
             text: 'Tata Cara Menambah Produk Kategori Banpem Menulis',
             link: '/guide/merchant/20260908-000000-tambah-produk-banpem-menulis',
         },
+        {
+            text: 'Tambah Produk Secara Massal',
+            link: '/guide/merchant/20260928-000000-tambah-produk-massal',
+        },
+
     ]
 }
 const paymentGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
