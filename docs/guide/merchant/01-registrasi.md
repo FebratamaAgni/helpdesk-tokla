@@ -45,7 +45,7 @@ _Catatan: Dokumen NPWP, NIB, dan Nama Rekening Bank **wajib** menggunakan **nama
 6. Alamat email aktif
 7. Nomor HP Aktif
 
-_Catatan: Pastikan dokumen Rekening, NPWP dan NIB sesuai dengan A/n Koperasi_
+_Catatan: Dokumen NPWP, NIB, dan Nama Rekening Bank **wajib** menggunakan **nama yang sama** & a/n Koperasi._
 
 ## Pelaksanaan registrasi
 
