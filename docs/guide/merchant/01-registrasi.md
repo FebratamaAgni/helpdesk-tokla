@@ -21,7 +21,7 @@ ogImage: /images/image-1.png
 6. Alamat email aktif
 7. Nomor HP Aktif
 
-_Catatan: Pastikan dokumen Rekening, KTP dan NPWP sesuai dengan A/n penanggung jawab KTP_
+_Catatan: Semua dokumen identitas (KTP, NPWP, NIB opsional) dan nama rekening bank wajib menggunakan **nama yang sama**._
 
 ### BADAN HUKUM:
 
@@ -33,7 +33,7 @@ _Catatan: Pastikan dokumen Rekening, KTP dan NPWP sesuai dengan A/n penanggung j
 6. Alamat email aktif
 7. Nomor HP Aktif
 
-_Catatan: Pastikan dokumen Rekening, NPWP dan NIB sesuai dengan A/n Perusahaan_
+_Catatan: Dokumen NPWP, NIB, dan Nama Rekening Bank **wajib** menggunakan **nama yang sama** & a/n Badan Hukum._
 
 ### KOPERASI:
 
