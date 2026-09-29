@@ -11,13 +11,41 @@ ogImage: /images/image-1.png
 
 ## Persiapan Sebelum Mulai Registrasi
 
+### INDIVIDU:
+
 1. Dokumen KTP
 2. Dokumen NPWP
-3. Dokumen NIB (Badan Hukum: CV, PT), belum wajib tapi sangat direkomendasikan untuk ada.
+3. Dokumen NIB (Opsional) jika ada: harus sesuai dengan A/n penanggung jawab KTP
 4. Nomor Rekening
-5. Foto buku rekening atau screenshot yang memuat nomor rekening.
-6. Alamat Email Aktif
+5. Foto dokumen rekening atau screenshot dokumen rekening yang menampilkan nomor rekening dan nama rekening
+6. Alamat email aktif
 7. Nomor HP Aktif
+
+_Catatan: Pastikan dokumen Rekening, KTP dan NPWP sesuai dengan A/n penanggung jawab KTP_
+
+### BADAN HUKUM:
+
+1. Dokumen KTP
+2. Dokumen NPWP
+3. Dokumen NIB
+4. Nomor Rekening
+5. Foto dokumen rekening atau screenshot dokumen rekening yang menampilkan nomor rekening dan nama rekening
+6. Alamat email aktif
+7. Nomor HP Aktif
+
+_Catatan: Pastikan dokumen Rekening, NPWP dan NIB sesuai dengan A/n Perusahaan_
+
+### KOPERASI:
+
+1. Dokumen KTP
+2. Dokumen NPWP
+3. Dokumen NIB
+4. Nomor Rekening
+5. Foto dokumen rekening atau screenshot dokumen rekening yang menampilkan nomor rekening dan nama rekening
+6. Alamat email aktif
+7. Nomor HP Aktif
+
+_Catatan: Pastikan dokumen Rekening, NPWP dan NIB sesuai dengan A/n Koperasi_
 
 ## Pelaksanaan registrasi
 
